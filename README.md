@@ -43,7 +43,8 @@ Robotic-Gripper-for-Microgravity/
 │   └── raw_data/             # Raw .csv logs from the Franka arm tests
 │
 └── docs/                     # Documentation and final reports
-    └── Climbing_robotic_gripper_report.pdf # Final detailed Bachelor Thesis report
+    ├── Climbing_robotic_gripper_report.pdf # Final detailed Bachelor Thesis report
+    └── Final_Presentation_Slides.pdf       # Summary presentation of the project
 ```
 
 ## Hardware & Manufacturing
