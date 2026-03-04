@@ -10,8 +10,11 @@ The gripper was developed as part of a Bachelor's Thesis, and is intended to be 
 
 ## Testing the Gripper
 
-You can view a video of the gripper in action by downloading or playing the file below:
-**[Watch the Gripper Test Video here](docs/images/gripper_test.mp4)**
+Here is a video of the final gripper mechanism in action:
+
+<video src="https://raw.githubusercontent.com/Ramchi99/Robotic-Gripper-for-Microgravity/main/docs/images/gripper_stable.mp4" autoplay loop muted playsinline controls="true" width="100%"></video>
+
+*(If the video doesn't play automatically, **[click here to view it](docs/images/gripper_stable.mp4)**)*
 
 ## Design Objectives
 
