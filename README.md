@@ -12,7 +12,7 @@ The gripper was developed as part of a Bachelor's Thesis, and is intended to be 
 
 Here is a video of the final gripper mechanism in action:
 
-https://github.com/Ramchi99/Robotic-Gripper-for-Microgravity/raw/main/docs/images/gripper_stable.mp4
+![Gripper in Action](docs/images/gripper_stable.gif)
 
 ## Design Objectives
 
