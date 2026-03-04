@@ -20,10 +20,11 @@ Here is a video of the final gripper mechanism in action:
 
 ## Design Objectives
 
-The mechanical design of this gripping mechanism aimed to fulfill three primary points for reliable use on varied terrain in space:
-1. **Reliable static gripping:** Ensure safe attachment to various relevant surfaces after jumping.
-2. **Sufficient shock absorption:** Protect structural integrity during dynamic impacts with the surface.
-3. **Passive engagement:** Ability to autonomously and passively initiate the grasping sequence once surface contact is established.
+The mechanical design of this gripping mechanism aimed to fulfill the following primary objectives for reliable use on varied terrain in space:
+1. **Reliable Static Gripping:** Ensure safe attachment to various relevant rocky surfaces.
+2. **Microgravity Compatibility:** The mechanism must not rely on normal forces (gravity) to maintain its grip.
+3. **Underactuated Design:** To reduce weight and complexity, the gripper is underactuated, using a single motor to drive all three legs via a differential mechanism, combined with a spring-loaded passive release mechanism.
+4. **Space-Grade Design Principles:** While the current prototype is primarily 3D printed, the architecture is designed such that it can be manufactured using space-gradable materials in the future. This means avoiding components prone to dust jamming (like exposed gears) and avoiding compliant materials (like soft polymers) that would rapidly degrade in the space environment.
 
 ## Repository Structure
 
