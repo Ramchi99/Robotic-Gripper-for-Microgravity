@@ -1,8 +1,17 @@
 # Development of a Robotic Gripper for Microgravity Applications
 
+<p align="center">
+  <img src="docs/images/gripper_prototype.jpg" alt="Physical Prototype of the Spacehopper Gripper" width="400" />
+</p>
+
 This repository contains the hardware designs, firmware, control software, and data evaluation for a functioning prototype of an underactuated robotic gripper designed for applications in microgravity. 
 
 The gripper was developed as part of a Bachelor's Thesis, and is intended to be integrated into **Spacehopper**, an autonomous robot designed to jump in microgravity and reorient in the air to land safely. 
+
+## 🎥 Testing the Gripper
+
+You can view a video of the gripper in action by downloading or playing the file below:
+**[👉 Watch the Gripper Test Video here](docs/images/gripper_test.mp4)**
 
 ## Design Objectives
 
