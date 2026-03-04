@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>franka_ft_reader</name>
+  <version>1.0.0</version>
+  <description>Examle Template Package</description>
+  <maintainer email="zrene@ethz.ch">René Zurbrügg</maintainer>
+  <author email="zrene@ethz.ch">René Zurbrügg</author>
+  <license>BSD</license>
+  <!-- buildtool_depend: dependencies of the build process -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <!-- build_depend: dependencies only used in source files -->
+  <build_depend>boost</build_depend>
+  <!-- depend: build, export, and execution dependency -->
+  <depend>eigen</depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <build_depend>roslint</build_depend>
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>

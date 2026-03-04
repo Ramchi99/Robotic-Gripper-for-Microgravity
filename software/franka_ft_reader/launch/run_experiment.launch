@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="franka_ft_reader" type="controller_node.py" name="controller_node"  output="screen" />
+   <node pkg="franka_ft_reader" type="measurement_logger.py" name="measurement_logger"  output="screen" />
+</launch>
