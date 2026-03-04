@@ -12,7 +12,11 @@ The gripper was developed as part of a Bachelor's Thesis, and is intended to be 
 
 Here is a video of the final gripper mechanism in action:
 
-![Gripper in Action](docs/images/gripper_stable.gif)
+<p align="center">
+  <img src="docs/images/gripper_stable.gif" alt="Gripper in Action" width="600" />
+</p>
+
+*(If you prefer higher quality, **[click here to download or view the original .mp4 video](docs/images/gripper_stable.mp4)**)*
 
 ## Design Objectives
 
